@@ -19,7 +19,7 @@ int main() {
             << pageNumber
             << ", Offset: 0x"
             << offset
-            << std::dec << std::endl; // Switch back to decimal for any further output
+            << std::dec << std::endl;
     }
 
     return 0;
